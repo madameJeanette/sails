@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"emailAddress","unique":true,"sparse":false}}
+{"emailAddress":"admin@example.com","fullName":"Ryan Dahl","isSuperAdmin":true,"password":"$2a$10$JHjztJnj5eta9Y5vD2sXxu.6isP2olta4Te7AX8R0LParL3lGaR/e","createdAt":1536514667790,"updatedAt":1536514667790,"id":1,"passwordResetToken":"","passwordResetTokenExpiresAt":0,"stripeCustomerId":"","hasBillingCard":false,"billingCardBrand":"","billingCardLast4":"","billingCardExpMonth":"","billingCardExpYear":"","emailProofToken":"","emailProofTokenExpiresAt":0,"emailStatus":"confirmed","emailChangeCandidate":"","tosAcceptedByIp":"","lastSeenAt":0,"_id":1}
